@@ -1,0 +1,17 @@
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\bin\Debug\net6.0-windows\EjercicioDoWhile.exe
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\bin\Debug\net6.0-windows\EjercicioDoWhile.deps.json
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\bin\Debug\net6.0-windows\EjercicioDoWhile.runtimeconfig.json
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\bin\Debug\net6.0-windows\EjercicioDoWhile.dll
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\bin\Debug\net6.0-windows\EjercicioDoWhile.pdb
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\obj\Debug\net6.0-windows\EjercicioDoWhile.vbproj.AssemblyReference.cache
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\obj\Debug\net6.0-windows\EjercicioDoWhile.Form1.resources
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\obj\Debug\net6.0-windows\EjercicioDoWhile.vbproj.GenerateResource.cache
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\obj\Debug\net6.0-windows\EjercicioDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\obj\Debug\net6.0-windows\EjercicioDoWhile.AssemblyInfoInputs.cache
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\obj\Debug\net6.0-windows\EjercicioDoWhile.AssemblyInfo.vb
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\obj\Debug\net6.0-windows\EjercicioDoWhile.vbproj.CoreCompileInputs.cache
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\obj\Debug\net6.0-windows\EjercicioDoWhile.dll
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\obj\Debug\net6.0-windows\refint\EjercicioDoWhile.dll
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\obj\Debug\net6.0-windows\EjercicioDoWhile.pdb
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\obj\Debug\net6.0-windows\EjercicioDoWhile.genruntimeconfig.cache
+D:\Practicas\EjercicioDoWhile\EjercicioDoWhile\obj\Debug\net6.0-windows\ref\EjercicioDoWhile.dll
